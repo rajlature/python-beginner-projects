@@ -1,16 +1,16 @@
 # 🐍 Python Beginner Projects
 
-A collection of beginner-friendly Python projects built to strengthen my programming fundamentals, logical thinking, and problem-solving skills through hands-on practice.
+A collection of Python projects built to strengthen my programming fundamentals, logical thinking, and problem-solving skills through hands-on practice.
 
-This repository is part of my Python Projects Challenge, where I aim to build projects independently, learn from mistakes, test my code, and document my progress.
+This repository is part of my **48 Python Projects Challenge**. My approach is to build each project myself, test my code, learn from mistakes, and document my progress.
 
 ## 🎯 Objectives
 
 - Strengthen Python fundamentals through practical coding.
 - Improve logical thinking and problem-solving.
-- Practice variables, data types, conditionals, loops, functions, and exception handling.
-- Learn to write readable, maintainable code.
-- Build a structured GitHub portfolio and share my learning journey.
+- Practice conditionals, loops, functions, data types, and exception handling.
+- Learn input validation and debugging.
+- Build a structured portfolio of Python projects.
 
 ## 🛠️ Technologies
 
@@ -20,50 +20,44 @@ This repository is part of my Python Projects Challenge, where I aim to build pr
 
 ## 📂 Projects
 
-| No. | Project | Concepts Practiced | Status |
-|---|---|---|---|
-| 01 | Brand Name Generator | User input, variables, conditionals, string concatenation, exception handling, loops | Completed |
+| No. | Project | Description | Concepts Practiced | Status |
+|---|---|---|---|---|
+| 01 | [Brand Name Generator](./01_brand_name_generator.py) | Generates a brand name using user-selected combinations of a city, pet, and item name. | User input, variables, string concatenation, conditionals, `while` loops, exception handling | Completed |
+| 02 | [Tip Calculator](./02_tip_calculator.py) | Calculates the tip amount, total bill, and per-person payment. Includes input validation for bill amount, tip percentage, and number of people. | Numeric conversion, arithmetic operators, `while` loops, `try-except`, conditional statements, f-strings | Completed |
 
-More projects will be added as I complete and test them.
+More projects will be added as I progress through the beginner-level challenge.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Python 3 installed
-- Git (optional, for cloning the repository)
+- Git installed (optional, if cloning the repository)
 
 ### Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
-
-Navigate to the project directory:
-
-```bash
+git clone https://github.com/rajlature/python-beginner-projects.git
 cd python-beginner-projects
 ```
 
 ### Run a project
 
-For example, to run the Brand Name Generator:
+**Project 01 — Brand Name Generator**
 
 ```bash
 python 01_brand_name_generator.py
 ```
 
-On some Windows systems, you may need to use:
+**Project 02 — Tip Calculator**
 
 ```bash
-py 01_brand_name_generator.py
+python 02_tip_calculator.py
 ```
 
-Follow the instructions displayed in the terminal.
+On Windows, you can also use `py` instead of `python` if needed.
 
-## 📚 Learning Approach
+## 🧠 Learning Approach
 
 For each project, I aim to:
 
@@ -75,10 +69,13 @@ For each project, I aim to:
 
 ## 📈 Progress
 
-- [ ] Complete beginner-level projects.
+- [x] Project 01 — Brand Name Generator
+- [x] Project 02 — Tip Calculator
+- [ ] Complete the remaining beginner-level projects.
 - [ ] Test and document each project.
-- [ ] Improve problem-solving and debugging skills.
-- [ ] Publish a final beginner-project portfolio showcase.
+- [ ] Publish a beginner-project portfolio showcase.
+
+**Current progress: 2 of 48 projects completed.**
 
 ## 🔗 Connect With Me
 
@@ -87,4 +84,4 @@ For each project, I aim to:
 
 ---
 
-*Learning Python one project at a time. Building, testing, improving, and learning along the way.*S
+*Learning Python one project at a time — building, testing, improving, and learning along the way.*
