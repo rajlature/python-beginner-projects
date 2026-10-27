@@ -22,7 +22,7 @@ This repository is part of my Python Projects Challenge, where I aim to build pr
 
 | No. | Project | Concepts Practiced | Status |
 |---|---|---|---|
-| 01 | Brand Name Generator | User input, variables, conditionals, string concatenation, exception handling, loops | In Progress |
+| 01 | Brand Name Generator | User input, variables, conditionals, string concatenation, exception handling, loops | Completed |
 
 More projects will be added as I complete and test them.
 
