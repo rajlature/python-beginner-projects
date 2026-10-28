@@ -1,16 +1,16 @@
 # 🐍 Python Beginner Projects
 
-A collection of Python projects built to strengthen my programming fundamentals, logical thinking, and problem-solving skills through hands-on practice.
+A collection of beginner-friendly Python projects built to strengthen my programming fundamentals, logical thinking, and problem-solving skills through hands-on practice.
 
-This repository is part of my **48 Python Projects Challenge**. My approach is to build each project myself, test my code, learn from mistakes, and document my progress.
+This repository is part of my **48 Python Projects Challenge**, where I build projects independently, test my code, learn from mistakes, and document my progress.
 
 ## 🎯 Objectives
 
 - Strengthen Python fundamentals through practical coding.
 - Improve logical thinking and problem-solving.
-- Practice conditionals, loops, functions, data types, and exception handling.
-- Learn input validation and debugging.
-- Build a structured portfolio of Python projects.
+- Practice conditionals, loops, variables, and data types.
+- Learn input validation and exception handling.
+- Build a structured GitHub portfolio through hands-on projects.
 
 ## 🛠️ Technologies
 
@@ -22,26 +22,25 @@ This repository is part of my **48 Python Projects Challenge**. My approach is t
 
 | No. | Project | Description | Concepts Practiced | Status |
 |---|---|---|---|---|
-| 01 | [Brand Name Generator](./01_brand_name_generator.py) | Generates a brand name using user-selected combinations of a city, pet, and item name. | User input, variables, string concatenation, conditionals, `while` loops, exception handling | Completed |
-| 02 | [Tip Calculator](./02_tip_calculator.py) | Calculates the tip amount, total bill, and per-person payment. Includes input validation for bill amount, tip percentage, and number of people. | Numeric conversion, arithmetic operators, `while` loops, `try-except`, conditional statements, f-strings | Completed |
-
-More projects will be added as I progress through the beginner-level challenge.
+| 01 | [Brand Name Generator](./01_brand_name_generator.py) | Generates a brand name by combining a city, pet, and item name according to the user's selection. | Variables, user input, string concatenation, conditionals, loops, exception handling | Completed |
+| 02 | [Tip Calculator](./02_tip_calculator.py) | Calculates the tip amount, total bill, and cost per person, with input validation. | Numeric conversion, arithmetic operators, `while` loops, `try-except`, f-strings | Completed |
+| 03 | [Treasure Island](./03_treasure_island.py) | A text-based adventure game where player choices determine whether they find the treasure or encounter game-over scenarios. | `if/elif/else`, nested conditionals, string methods, user input | Completed |
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Python 3 installed
-- Git installed (optional, if cloning the repository)
+- Git installed (optional, for cloning the repository)
 
-### Clone the repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/rajlature/python-beginner-projects.git
 cd python-beginner-projects
 ```
 
-### Run a project
+### Run a Project
 
 **Project 01 — Brand Name Generator**
 
@@ -55,32 +54,39 @@ python 01_brand_name_generator.py
 python 02_tip_calculator.py
 ```
 
-On Windows, you can also use `py` instead of `python` if needed.
+**Project 03 — Treasure Island**
 
-## 🧠 Learning Approach
+```bash
+python 03_treasure_island.py
+```
+
+On Windows, use `py` instead of `python` if necessary.
+
+## 🧠 My Learning Approach
 
 For each project, I aim to:
 
 1. Understand the problem and plan a solution.
 2. Write the code independently.
 3. Test different inputs and handle errors.
-4. Improve code readability and functionality.
+4. Debug problems and improve code readability.
 5. Document the project and share meaningful progress.
 
-## 📈 Progress
+## 📈 Challenge Progress
 
 - [x] Project 01 — Brand Name Generator
 - [x] Project 02 — Tip Calculator
+- [x] Project 03 — Treasure Island
 - [ ] Complete the remaining beginner-level projects.
 - [ ] Test and document each project.
 - [ ] Publish a beginner-project portfolio showcase.
 
-**Current progress: 2 of 48 projects completed.**
+**Current progress: 3 of 48 projects completed.**
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/channabaswaraj-lature-157517323/)
-- **GitHub:** [My GitHub Profile](https://github.com/rajlature)
+- **LinkedIn:** [Channabaswaraj Lature](https://www.linkedin.com/in/channabaswaraj-lature-157517323/)
+- **GitHub:** [rajlature](https://github.com/rajlature)
 
 ---
 
