@@ -10,6 +10,7 @@ This repository is part of my **48 Python Projects Challenge**, where I build pr
 - Improve logical thinking and problem-solving.
 - Practice conditionals, loops, variables, and data types.
 - Learn input validation and exception handling.
+- Explore Python modules and randomization.
 - Build a structured GitHub portfolio through hands-on projects.
 
 ## 🛠️ Technologies
@@ -25,6 +26,7 @@ This repository is part of my **48 Python Projects Challenge**, where I build pr
 | 01 | [Brand Name Generator](./01_brand_name_generator.py) | Generates a brand name by combining a city, pet, and item name according to the user's selection. | Variables, user input, string concatenation, conditionals, loops, exception handling | Completed |
 | 02 | [Tip Calculator](./02_tip_calculator.py) | Calculates the tip amount, total bill, and cost per person, with input validation. | Numeric conversion, arithmetic operators, `while` loops, `try-except`, f-strings | Completed |
 | 03 | [Treasure Island](./03_treasure_island.py) | A text-based adventure game where player choices determine whether they find the treasure or encounter game-over scenarios. | `if/elif/else`, nested conditionals, string methods, user input | Completed |
+| 04 | [Rock Paper Scissors](./04_rock_paper_scissors.py) | A game where the player competes against the computer, which randomly selects rock, paper, or scissors. | `random` module, lists, `while` loops, input validation, conditional logic | Completed |
 
 ## 🚀 Getting Started
 
@@ -60,6 +62,12 @@ python 02_tip_calculator.py
 python 03_treasure_island.py
 ```
 
+**Project 04 — Rock Paper Scissors**
+
+```bash
+python 04_rock_paper_scissors.py
+```
+
 On Windows, use `py` instead of `python` if necessary.
 
 ## 🧠 My Learning Approach
@@ -77,11 +85,11 @@ For each project, I aim to:
 - [x] Project 01 — Brand Name Generator
 - [x] Project 02 — Tip Calculator
 - [x] Project 03 — Treasure Island
+- [x] Project 04 — Rock Paper Scissors
 - [ ] Complete the remaining beginner-level projects.
-- [ ] Test and document each project.
 - [ ] Publish a beginner-project portfolio showcase.
 
-**Current progress: 3 of 48 projects completed.**
+**Current progress: 4 of 48 projects completed.**
 
 ## 🔗 Connect With Me
 
